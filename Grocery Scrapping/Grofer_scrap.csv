@@ -1,0 +1,68 @@
+Main Category, Category,Sub Category
+Grocery & Staples,Pulses,"Moong,Rajma & Chana,Masoor,Dried Peas & Others"
+Grocery & Staples,Atta & Other Flours,Besan & Sooji/Rava
+Grocery & Staples,Rice & Other Grains,Basmati
+Grocery & Staples,Dry Fruits & Nuts,"Almonds & Cashews,Nuts & Seeds,Other Dry Fruits"
+Grocery & Staples,Edible Oils,"Health Oils,Sunflower Oils,Soyabean Oils,Groundnut & Coconut Oil"
+Grocery & Staples,Ghee & Vanaspati,Ghee
+Grocery & Staples,Spices,"Whole Spices,Powdered Spices,Ready Masala"
+Grocery & Staples,Salt & Sugar,"Sugar,Salt,Sugar Free,Jaggery & Others"
+Personal Care,Bath & Body,"Soaps,Hand Wash,Body Wash And Shower Gel"
+Personal Care,Hair Care,"Shampoo,Conditioner,Hair Oil And Others,Hair Colour"
+Personal Care,Skin Care,"Body Lotions,Talc Powder,Body Oils & Others,Face Cream"
+Personal Care,Oral Care,"Toothpaste,Toothbrush,Mouthwash And Others"
+Personal Care,Fragrances,"Deodorant For Men,Deodorant For Women,Perfumes"
+Personal Care,Face Care,"Face Wash,Face Cream,Face Mask & Bleach,Lip Care,More Face Products"
+Personal Care,Feminine Hygiene,"Sanitary Pads,Intimate Wash,Hair Removal"
+Personal Care,Men's Grooming,"Razors,Razors Blades,Shaving Cream, Foam And Gel"
+Personal Care,Health And Wellness,"Condoms,Pain Relievers,Other OTC's"
+Personal Care,Cosmetics,"Lip Colour,Tools & Brushes"
+Personal Care,New Launches,"Lip Colour,Tools & Brushes"
+Household Items,Household Items,"Lip Colour,Tools & Brushes"
+Household Items,Buy 1 Get 1 Free,B1G1
+Household Items,New Launches,B1G1
+Household Items,Laundry Detergents,"Detergent Powders,Liquid Detergents,Detergent Bars,Laundry Additives"
+Household Items,Dishwashers,Scrubbers & Cleaning Aids
+Household Items,Cleaners,Toilet Cleaners
+Household Items,Pooja Needs,Incense Sticks
+Household Items,Repellents,Sprays
+Household Items,Home & Car Fresheners,"Air Fresheners,Car Fresheners"
+Household Items,Tissues & Disposables,"Kitchen & Dining Disposables,Toilet & Other Disposables"
+"Biscuits, Snacks & Chocolates",Chocolates & Candies,"Chocolate Bestsellers,Chocolate Bars,Filled Bars,Chocolate Bags,Chocolate Gift Packs"
+"Biscuits, Snacks & Chocolates",Namkeen & Snacks,Healthy Snacks
+"Biscuits, Snacks & Chocolates",Sweets,Sweets
+"Biscuits, Snacks & Chocolates",New Launches,Sweets
+Beverages,Beverages,Sweets
+Beverages,New Launches,Sweets
+Beverages,Cold Drinks,"Cans,Pet Bottles,Mango Drinks"
+Beverages,Juices & Drinks,"Juices,Coconut Water,Mango & Orange Juices,Squash & Sharbat"
+Beverages,Tea & Coffee,"Tea,Green Tea,Coffee,Tea Bags & Others"
+Beverages,Health & Energy Drinks,"Chocolate Health Drinks,Health Drinks,Energy Drinks,Coconut Water"
+Beverages,Milk Drinks,Buttermilk
+Breakfast & Dairy,Breakfast & Dairy,Buttermilk
+Breakfast & Dairy,Milk & Milk Products,"Tetra Milk,Speciality Milk,Lassi & Chaach,Flavoured Milk & Milk Shake"
+Breakfast & Dairy,Butter & Cheese,Butter
+Breakfast & Dairy,Breakfast Cereal & Mixes,"Flakes,Muesli,Oats,Breakfast Bars"
+Breakfast & Dairy,"Jams, Honey & Spreads",Peanut Butter & Mayonnaise
+Grofers Exclusive,Grofers Exclusive,Peanut Butter & Mayonnaise
+Grofers Exclusive,Grocery & Staples,"Dry Fruits & Nuts,Pulses,Spices"
+Grofers Exclusive,Beverages,"Fruit Juices & Drinks,Tea & Coffee"
+Grofers Exclusive,Household Items,"Cleaners,Detergents,Dishwashers,Freshners,Pooja Needs,Tissue & Disposables"
+Grofers Exclusive,Breakfast & Milk,Breakfast Cereals
+Grofers Exclusive,Sauces & Instant Food,"Jams, Honey & Spreads,Pickles,Sauces & Ketchups"
+Grofers Exclusive,Home & Kitchen Needs,Others
+Grofers Exclusive,Personal Care,"Deo & Perfumes,Hair Combs & Others,Soaps & Body Wash"
+"Noodles, Sauces & Instant Food","Noodles, Sauces & Instant Food","Deo & Perfumes,Hair Combs & Others,Soaps & Body Wash"
+"Noodles, Sauces & Instant Food",Noodles & Vermicelli,Instant Noodles
+"Noodles, Sauces & Instant Food",Sauces & Ketchups,"Tomato Ketchup & Sauces,Soya & Chilli Sauces"
+"Noodles, Sauces & Instant Food","Jams, Honey & Spreads",Peanut Butter & Mayonnaise
+"Noodles, Sauces & Instant Food",Pickles & Chutneys,"Mango & Lime Pickles,Other Pickles & Chutneys"
+"Noodles, Sauces & Instant Food",Chyawanprash & Health Foods,Healthy Snacks
+Baby Care,Baby Care,Healthy Snacks
+Baby Care,Baby Food,"0-6 months,6-12 months,12-18 months,24 months+"
+Baby Care,Diapers & Wipes,Diapers
+Baby Care,Baby Skin & Hair Care,"Bathing Needs,Body Care & Others"
+Baby Care,Baby Accessories & More,Baby Needs
+Baby Care,Buy 1 Get 1 & More,"B1G1,Combos"
+Pet Care,Pet Care,"B1G1,Combos"
+Pet Care,Cat Supplies,Cat Food & Treats

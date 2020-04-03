@@ -1,0 +1,46 @@
+company,models
+Ashok Leyland,['Stile']
+Aston Martin,"['DB9', 'DBS', 'One 77', 'Rapide', 'V8 Vantage', 'V12 Vantage', 'Vanquish', 'Virage']"
+Audi,"['A3', 'A3 Cabriolet', 'A4', 'A6', 'A7', 'A8', 'A8 L', 'Q2', 'Q3', 'Q5', 'Q7', 'R8', 'RS5', 'RS6', 'RS7', 'RS7 Sportback', 'S4', 'S5 Sportback', 'TT']"
+BMW,"['1 Series', '3 Series', '3 Series GT', '4 Series', '5 Series', '5 Series GT', '6 Series', '7 Series', 'Gran Turismo', 'M3', 'M5', 'M Series', 'X1', 'X3', 'X5', 'X6', 'Z4', 'Z4 Convertible', 'Z4 Coupe', 'i8']"
+Bentley,"['Arnage', 'Azure', 'Bentayga', 'Continental', 'Continental Flying Spur', 'Continental GT', 'Continental GTC', 'Mulsanne']"
+Bugatti,['Veyron']
+Caterham,['7']
+Chevrolet,"['Aveo', 'Aveo UVA', 'Beat', 'Captiva', 'Cruze', 'Enjoy', 'Forester', 'Optra', 'Optra Magnum', 'Optra SRV', 'Sail', 'Sail Hatchback', 'Sail UVA', 'Spark', 'Spark LPG', 'Tavera', 'Tavera Neo', 'Trailblazer']"
+DC,['Avanti']
+Daewoo,"['Cielo', 'Matiz', 'Nexia']"
+Datsun,"['GO', 'Go Cross', 'Go Plus', 'On DO', 'Redi GO', 'RediGo']"
+Eicher Polaris,['Multix']
+Ferrari,"['458', '488', '599 GTB Fiorano', 'California', 'F12berlinetta', 'F50 Spider', 'FF']"
+Fiat,"['500', 'Abarth 595', 'Abarth Punto', 'Adventure', 'Avventura', 'Grande Punto', 'Linea', 'Linea Classic', 'Palio D', 'Palio NV', 'Palio Stile', 'Palio Stile Multijet', 'Petra', 'Petra D', 'Punto', 'Punto Evo', 'Punto Pure', 'Uno']"
+Force Motors,"['Force One', 'Gurkha', 'One SUV']"
+Ford,"['Classic', 'EcoSport', 'Endeavor', 'Endeavour', 'Escort', 'Fiesta', 'Fiesta Classic', 'Figo', 'Figo Aspire', 'Fusion', 'Ikon', 'Mondeo', 'Mustang', 'New Ikon']"
+Hindustan Motors,"['Ambassador', 'Contessa']"
+Honda,"['Abc', 'Accord', 'Amaze', 'BRV', 'Brio', 'CRV', 'City', 'City ZX', 'Civic', 'Jazz', 'Mobilio', 'WRV', 'WR V']"
+Hyundai,"['Accent', 'Accent Viva', 'Creta', 'Elantra', 'Elite i20', 'Eon', 'Fluidic Verna', 'Getz', 'Getz Prime', 'Grand i10', 'Santa Fe', 'Santro', 'Santro Xing', 'Sonata', 'Sonata Embera', 'Sonata Transform', 'Tucson', 'Verna', 'Verna Fluidic', 'Verna Transform', 'Xcent', 'i10', 'i20', 'i20 Active']"
+ICML,"['Extreme', 'Rhino Rx']"
+Isuzu,"['D Max', 'MU7', 'MUX']"
+Jaguar,"['F Pace', 'F Type', 'XE', 'XF', 'XJ', 'XJ L', 'XK']"
+Jeep,"['Compass', 'Grand Cherokee', 'Grand Cherokee SRT', 'Wrangler']"
+Lamborghini,"['Aventador', 'Gallardo', 'Huracan', 'Murcielago']"
+Land Rover,"['Discovery', 'Discovery 3', 'Discovery 4', 'Discovery Sport', 'Freelander 2', 'Range Rover', 'Range Rover Evoque', 'Range Rover Sport']"
+Lexus,"['ES', 'RX']"
+Mahindra,"['Armada', 'Bolero', 'CL Range', 'E Verito', 'Jeep', 'KUV100', 'Logan', 'MM Range', 'Marshal DI', 'Maxx', 'NuvoSport', 'Quanto', 'REVAi', 'Reva', 'Scorpio', 'Scorpio Getaway', 'Scorpio W', 'TUV300', 'Thar', 'Verito', 'Verito Vibe CS', 'Voyager', 'XUV500', 'Xylo', 'e2o', 'e2o Plus', 'e20']"
+Maruti Suzuki,"['800', 'A Star', 'Alto', 'Alto 800', 'Alto K10', 'Baleno', 'Celerio', 'Ciaz', 'Dzire', 'Eeco', 'Ertiga', 'Esteem', 'Estilo', 'Grand Vitara', 'Gypsy', 'Ignis', 'Kizashi', 'Maruti 800', 'Maruti 1000', 'Omni', 'Ritz', 'S Cross', 'SX4', 'Stingray', 'Swift', 'Swift 2017', 'Swift Dzire', 'Versa', 'Vitara Brezza', 'Wagon R', 'Wagon R 1.0', 'Wagon R Duo', 'Zen', 'Zen Estilo']"
+Maserati,"['Ghibli', 'GranCabrio', 'GranTurismo', 'Quattroporte']"
+Mercedes Benz,"['A Class', 'AMG GT', 'B Class', 'C Class', 'C Class Cabriolet', 'CLA Class', 'CL Class', 'CLK', 'CLS Class', 'E Class', 'E Class Cabriolet', 'G Class', 'GLA', 'GLA Class', 'GLC', 'GL Class', 'GLE Class', 'GLE Coupe', 'GLS', 'M Class', 'R Class', 'S Class', 'S Class Cabriolet', 'S Coupe', 'SLC', 'SL Class', 'SLK Class', 'SLS', 'SLS AMG']"
+Mini,"['Cooper', 'Cooper Convertible', 'Cooper Convertible 2.0', 'Cooper S', 'Countryman']"
+Mitsubishi,"['Cedia', 'Challenger', 'Lancer', 'Lancer Evolution', 'Lancer Evolution X', 'Montero', 'Outlander', 'Pajero', 'Pajero Sport']"
+Nissan,"['370Z', 'Evalia', 'GTR', 'Micra', 'Micra Active', 'Sunny', 'Teana', 'Terrano', 'X Trail']"
+Opel,"['Astra', 'Corsa', 'Vectra']"
+Porsche,"['911', '911 Coupe', 'Boxster', 'Cayenne', 'Cayman', 'Macan', 'Panamera']"
+Premier,"['Padmini', 'Rio']"
+Renault,"['Captur', 'Duster', 'Fluence', 'Koleos', 'Kwid', 'Kwid 1.0', 'Lodgy', 'Logan', 'Logan Edge', 'Pulse', 'Scala']"
+Rolls Royce,"['Dawn', 'Drophead Coupe', 'Ghost', 'Ghost Series II', 'Phantom', 'Phantom Coupe', 'Wraith']"
+San,['Storm']
+Skoda,"['Fabia', 'Fabia Scout', 'Kodiaq', 'Laura', 'Octavia', 'Octavia Combi', 'Rapid', 'Rapid new', 'Superb', 'Yeti']"
+Ssangyong,['Rexton']
+Tata,"['Aria', 'Bolt', 'Estate', 'Hexa', 'Indica', 'Indica V2', 'Indica V2 Xeta', 'Indica Vista', 'Indica eV2', 'Indigo', 'Indigo CS', 'Indigo Marina', 'Indigo V Series', 'Indigo XL', 'Indigo eCS', 'Kite Sedan', 'Manza', 'Movus', 'Nano', 'Nano GenX', 'Nexon', 'RaceMo', 'Safari', 'Safari Storme', 'Sumo', 'Sumo Gold', 'Sumo Grande', 'Sumo Grande MK II', 'Sumo Spacio', 'Sumo Victa', 'Tiago', 'Tigor', 'Venture', 'Vista', 'Vista Tech', 'Winger', 'Xenon XT', 'Zest']"
+Toyota,"['All New Fortuner', 'Camry', 'Celica', 'Corolla', 'Corolla Altis', 'Etios', 'Etios Cross', 'Etios Liva', 'Fortuner', 'Innova', 'Innova Crysta', 'Land Cruiser', 'Land Cruiser Prado', 'Platinum Etios', 'Prado', 'Prius', 'Qualis', 'Vios', 'Yaris']"
+Volkswagen,"['Ameo', 'Beetle', 'Cross Polo', 'GTI', 'Jetta', 'Passat', 'Phaeton', 'Polo', 'Polo GTI', 'Taigun', 'Tiguan', 'Touareg', 'Vento']"
+Volvo,"['S60', 'S80', 'S90', 'V40', 'V40 Cross Country', 'V90 Cross Country', 'XC60', 'XC90']"
