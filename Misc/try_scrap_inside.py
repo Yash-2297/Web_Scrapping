@@ -15,17 +15,12 @@ from bs4 import BeautifulSoup as bs
 from urllib.request import urlopen,Request
 import numpy as np
 
-url= 'https://www.linkedin.com/groups/10406658/'
-user_agent = 'DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)'
-client = urlopen(Request(str(url), data=None, headers={'User-Agent': user_agent}))
-html=client.read()
-client.close()
-soup=bs(html,"html.parser")
-soup
-container= soup.findAll("div",{"class":"application-outlet"})
-container
-for i in range (1,95):    
-    url=  'https://codecanyon.net/category/mobile/android/forms?page='+str(i)
+f=open("C:/Users/yp229/OneDrive/Desktop/vivi.csv","w",encoding="utf-8")
+header="create_Date,last_update,Price,sales,app_name,Created_by\n"
+f.write(header)
+
+for i in range (1,10):    
+    url=  'https://codecanyon.net/user/viaviwebtech/portfolio?page='+str(i)
     user_agent = 'Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46'
     client = urlopen(Request(str(url), data=None, headers={'User-Agent': user_agent}))
     
